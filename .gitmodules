@@ -1,0 +1,6 @@
+[submodule "app/qiwen-file-web"]
+	path = app/qiwen-file-web
+	url = https://gitee.com/qiwen-cloud/qiwen-file-web.git
+[submodule "app/qiwen-file"]
+	path = app/qiwen-file
+	url = https://gitee.com/qiwen-cloud/qiwen-file.git
